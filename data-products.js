@@ -17,6 +17,6 @@
       start_time: new Date(startTime),
       upcomming: upcomingEvent,
       close_registration: type_close_registration,
-      content_types: content_types,
+      contentTypes: content_types,
       subCategory: subCategory,
     })
